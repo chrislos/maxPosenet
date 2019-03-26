@@ -9,3 +9,7 @@ I'm doing this via sh script and a chromium app in the same folder.
 
 
 
+# note 2.
+
+In this particular patch I'm only using nose and ellbow data.
+But if you know a tiny winy bit of Javascript you can change the dataset in sketch.js.
